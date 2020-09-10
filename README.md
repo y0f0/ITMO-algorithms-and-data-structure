@@ -2,6 +2,11 @@
 
 Здесь собраны решения всех лабораторных работ на направлении "Информационные системы и технологии" ФИТИП ИТМО 
 
+[Советы по сдаче в PCMS2](https://docs.google.com/document/d/1pHcZ-cXdyVrkchRfD2Q4nF5y3YLv6H6-R7IoE6nD2do/edit)
+
+[C++ codestyle](Tasks/cppcodestyle.pdf)
+
+[Вердикты принимающей системы](http://neerc.ifmo.ru/teaching/disalgo/pcms.html)
 
 ## Первый семестр
 
