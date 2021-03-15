@@ -3,6 +3,9 @@
 *.exe
 *.xsl
 *.xslx
+*.vscode
+*.idea
+
 
 /Книги
 /Лекции
