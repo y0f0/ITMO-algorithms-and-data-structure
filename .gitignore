@@ -1,8 +1,8 @@
 *.in
 *.out
 *.exe
-*.xsl
-*.xslx
+*.xls
+*.xlsx
 *.vscode
 *.idea
 
