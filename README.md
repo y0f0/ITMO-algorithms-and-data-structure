@@ -1,7 +1,3 @@
-<style type="text/css">
-    ol { list-style-type: lower-alpha; }
-</style>
-
 # Алгоритмы и структуры данных
 
 Здесь собраны решения всех лабораторных работ на направлении "Информационные системы и технологии" ФИТИП ИТМО 
@@ -56,7 +52,7 @@
 1. [Высота дерева](Labs5/a.cpp)
 2. [Проверка корректности](Labs5/b.cpp)
 3. [Простое двоичное дерево поиска](Labs5/c.cpp)
-4. [Интерпретатор языка Quack](Labs5/d.py)
+4. [Интерпретатор языка Quack](Labs5/d.cpp)
 
 ### [Лабораторная работа №6](Tasks/problems6.pdf)
 Хеш-таблицы.
@@ -64,7 +60,7 @@
 1. [Set](Labs6/a.cpp)
 2. [Map](Labs6/b.cpp)
 3. [LinkedMap](Labs6/c.cpp)
-4. [MultiMap](Labs6/d.cpp)
+4. [MultiMap](Labs6/d.py)
 
 ### [Лабораторная работа №7](Tasks/problems7.pdf)
 АВЛ-дерево
