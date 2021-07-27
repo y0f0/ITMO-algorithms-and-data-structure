@@ -43,4 +43,4 @@
 /Структуры данных и алгоритмы 2020
 Экзамен.pdf
 cmake-build-debug/
-.clang-format/
+*.clang-format
